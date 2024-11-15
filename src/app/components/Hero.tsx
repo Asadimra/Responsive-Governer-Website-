@@ -31,13 +31,15 @@ export default function Hero() {
           </div>
           <p className="lg:ml-64">Accepted Application</p>
         </div>
+        <div className=" lg:-mr-52">
         <Image
           className="mt-4 m-auto"
           src="/K.png"
           alt=""
           height={200}
-          width={500}
+          width={1100}
         />
+        </div>
       </div>
       <p className="text-sky-900  mt-8 font-extrabold text-3xl text-center">
         Certified Cloud Applied Generative AI Engineer (GenEng) and Solopreneur{" "}
